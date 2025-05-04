@@ -217,7 +217,7 @@ const postsWithUserInfo = await Promise.all(
 
       <AIChatbot 
         darkMode={darkMode} 
-        apiKey={"AIzaSyA623Y9zkeuv60UVF032H0CpbXs1bYe9uU"}
+        apiKey={"YOUR GEMINI API KEY"}
       />
     </div>
   );
