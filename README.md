@@ -23,7 +23,6 @@ A scalable and feature-rich social networking platform implemented using C++ and
 * **Linked Lists**: Manage posts and engagement metrics
 * **Stacks**: Handle notifications
 * **Trees**: Provide search recommendations
-* **Hash Maps**: Enable efficient data retrieval
 
 ## ⚙️ Core Algorithms
 
